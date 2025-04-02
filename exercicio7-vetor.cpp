@@ -4,7 +4,7 @@ using namespace std;
 
 
 int main() {
-	string vet[4] = {"joao", "Miguel", "ruanzin", "ij"},m;
+	string vet[4] = {"joao", "Miguel", "ruanzin", "bababoiss"},m;
 	m = vet[0];
 	
 	int i;
