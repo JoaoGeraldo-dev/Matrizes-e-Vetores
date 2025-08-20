@@ -9,7 +9,7 @@ void getNotas(float &n1, float &n2, float &n3)
 	cout<<"digite a nota 2: ";
 	cin>>n2;
 	
-	cout<<"digite a nota 1: ";
+	cout<<"digite a nota 3: ";
 	cin>>n3;
 }
 
