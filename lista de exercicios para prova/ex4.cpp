@@ -6,7 +6,7 @@ int main(){
 	p = new int[5];
 	
 	for(int i = 0; i < 5; i++){
-		cout<<"Elemento " << i <<": " << *p << endl; 
+		cout<<"Elemento " << i <<": " << p << endl; 
 		p++;
 	}
 	
